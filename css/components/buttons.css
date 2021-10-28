@@ -1,0 +1,17 @@
+.btn-yours {
+  color: black;
+  padding: 10px 15px;
+  border-radius: 4px;
+  font-weight: bold;
+  background: white;
+  margin: 10px;
+  border-radius: 10px;
+  border-width: 0.5px;
+  border-style: solid;
+  border-color: orange;
+}
+
+.btn-yours:hover {
+  background-color: orange;
+  transition: 2s;
+}

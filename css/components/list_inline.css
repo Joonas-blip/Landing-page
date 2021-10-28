@@ -1,0 +1,25 @@
+.footer-items {
+  text-align: center;
+}
+
+.footer-items li  {
+  display: inline;
+}
+
+.footer-items li a {
+  color: black;
+  padding: 5px;
+}
+
+.footer-items li a:hover {
+  background-color: black;
+  color: white;
+  transition-duration: 2s;
+}
+
+.fa-instagram {
+    color: white;
+    background-color: black;
+    padding: 1.5px;
+    border-radius: 4px;
+}
